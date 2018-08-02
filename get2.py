@@ -53,7 +53,7 @@ def get_pic(channel):
 
     get_pics_from_url(channel_url)
 
-    for num in range(2,3):
+    for num in range(2,11):
         get_pics_from_url(page_url.format(num))
 
     download()
