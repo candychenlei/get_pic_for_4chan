@@ -33,12 +33,6 @@ def get_pic(channel):
     for num in range(2,11):
         get_pics_from_url(page_url.format(num))
 
-    #
-    #
-    # if(){
-    #
-    # }
-    #
 
 if __name__ == '__main__':
     get_pic("diy")

@@ -18,3 +18,13 @@ run
 ```
 python3 get.py
 ```
+
+if you use linux
+
+you can :
+
+```
+python3 get2.py
+```
+
+it so fast 
