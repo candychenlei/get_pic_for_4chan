@@ -1,4 +1,6 @@
-# get_pic_for_4chan
+# Get pic for 4chan.org
+
+this can download pics from 4chan.org , 1~10 page.
 
 get
 
